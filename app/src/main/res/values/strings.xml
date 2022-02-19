@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplikasi Informasi COVID-19</string>
+    <string name="info_covid19">Info COVID19</string>
+    <string name="positif">Positif</string>
+    <string name="dirawat">Dirawat</string>
+    <string name="sembuh">Sembuh</string>
+    <string name="meninggal">Meninggal</string>
+    <string name="provinsi">PROVINSI</string>
+</resources>
